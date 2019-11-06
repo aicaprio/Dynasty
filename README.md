@@ -56,6 +56,6 @@
             <th align="center">开国皇帝</td>
         </tr>
         <tr>
-            <td align="center" colspan="9">三皇五帝&nbsp;&nbsp;&nbsp;“三皇”指伏羲、燧人、神农；“五帝”指黄帝、颛顼、帝喾、唐尧、虞舜</td>
+            <td align="center" colspan="9"><b>三皇五帝<b>&nbsp;&nbsp;&nbsp;“三皇”指伏羲、燧人、神农&nbsp;&nbsp;&nbsp;“五帝”指黄帝、颛顼、帝喾、唐尧、虞舜</td>
         </tr>
 </table>
