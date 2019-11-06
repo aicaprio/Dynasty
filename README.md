@@ -48,11 +48,14 @@
 
 <table>
      <tr>
-        <th colspan="4" align="center">朝代</td> 
-        <th align="center">起讫时间</td> 
-        <th align="center">都城</td> 
-         <th align="center">今地</td> 
-         <th align="center">统治民族</td> 
-         <th align="center">开国皇帝</td> 
-   </tr>
+            <th align="center" colspan="4">朝代</td>
+            <th align="center">起讫时间</td>
+            <th align="center">都城</td>
+            <th align="center">今地</td>
+            <th align="center">统治民族</td>
+            <th align="center">开国皇帝</td>
+        </tr>
+        <tr>
+            <th align="center" colspan="9">三皇五帝：“三皇“指伏羲、燧人、神农，“五帝”指黄帝、颛顼、帝喾、唐尧、虞舜</td>
+        </tr>
 </table>
