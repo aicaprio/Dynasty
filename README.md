@@ -32,3 +32,16 @@
     <td></td>
 </tr>
 </table>
+
+<table>
+    <tr>
+        <td>列一</td> 
+        <td>列一</td> 
+   </tr>
+    <tr>
+        <td colspan="2">合并行</td>    
+    </tr>
+    <tr>
+        <td colspan="2">合并行</td>    
+    </tr>
+</table>
