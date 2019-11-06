@@ -1,6 +1,6 @@
 <table>
 <tr>
-    <td rowspan="7"> 文件状态：<br/>
+    <td rowspan="3"> 文件状态：<br/>
         [√] 草稿<br/>
         [√] 正在修改<br/>
         [√] 正式发布 </td>
