@@ -48,7 +48,7 @@
 
 <table>
      <tr>
-        <th colspan="4">朝代</td> 
-     
+        <th colspan="4" align="center">朝代</td> 
+        <th align="center">起讫时间</td> 
    </tr>
 </table>
