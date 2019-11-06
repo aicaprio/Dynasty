@@ -69,7 +69,7 @@
     </tr>
     <tr>
         <td align="center" colspan="2" rowspan="3">商朝</td>
-        <td align="center" colspan="2">西</td>
+        <td align="center" colspan="2">西周</td>
         <td align="center">亳</td>
         <td align="center">河南商丘</td>
         <td align="center">华夏族</td>
