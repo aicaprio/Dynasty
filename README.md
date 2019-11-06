@@ -50,5 +50,9 @@
      <tr>
         <th colspan="4" align="center">朝代</td> 
         <th align="center">起讫时间</td> 
+        <th align="center">都城</td> 
+         <th align="center">今地</td> 
+         <th align="center">统治民族</td> 
+         <th align="center">开国皇帝</td> 
    </tr>
 </table>
