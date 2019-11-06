@@ -45,3 +45,10 @@
         <td colspan="2">合并行</td>    
     </tr>
 </table>
+
+<table>
+     <tr>
+        <th colspan="4">朝代</td> 
+     
+   </tr>
+</table>
