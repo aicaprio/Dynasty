@@ -56,7 +56,8 @@
             <th align="center">开国皇帝</td>
         </tr>
         <tr>
-            <td align="center" colspan="9">三皇五帝&emsp;&emsp;<i>“三皇”<i>包括伏羲、燧人、神农</i>&emsp;&emsp;<i>“五帝”包括黄帝、颛顼、帝喾、唐尧、虞舜</i></td>
+            <td align="center" colspan="4">三皇五帝</td>
+            <td align="center" colspan="5"><i>“三皇”<i>包括伏羲、燧人、神农</i>&emsp;&emsp;<i>“五帝”包括黄帝、颛顼、帝喾、唐尧、虞舜</i></td>
         </tr>
           <td align="center" colspan="4">夏朝</td>
            <td align="center">约前2146-1675年</td>
