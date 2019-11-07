@@ -20,7 +20,7 @@
     </tr>
     <tr>
         <td align="center" colspan="4"><b>夏朝</td>
-        <td align="center">(约) 公元前2146年~公元前1675年</td>
+        <td align="center">(约) 2146 BC~1675 BC</td>
         <td align="center">安邑</td>
         <td align="center">山西夏县</td>
         <td align="center">华夏族</td>
