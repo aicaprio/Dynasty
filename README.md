@@ -97,7 +97,7 @@
     </tr>
     <tr>
         <td align="center" colspan="2">东汉</td>
-        <td align="center">公元25年~220年</td>
+        <td align="center">公元25年~公元220年</td>
         <td align="center">洛阳</td>
         <td align="center">河南洛阳</td>
         <td align="center">汉族</td>
