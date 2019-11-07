@@ -1,6 +1,5 @@
-附上[历朝疆土图](http://img.xixik.net/custom/section/chinese-dynasties/Magic-Dynasties-in-Chinese-history.gif)
-
-
+附上历朝疆土图
+![image](https://github.com/aicaprio/CurtainView/blob/master/imgs/ezgif-5-4fc93a6397.gif)   
 
 <table>
     <tr>
