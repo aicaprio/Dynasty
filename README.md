@@ -50,7 +50,7 @@
         <td align="center"></td>
     </tr>
      <tr>
-        <td align="center" colspan="4">夏朝</td>
+        <td align="center" colspan="4">秦朝</td>
         <td align="center">前221-207年</td>
         <td align="center">咸阳</td>
         <td align="center">陕西咸阳</td>
