@@ -40,44 +40,6 @@
         <td align="center"><b>春秋</td>
         <td align="center">前770年~前476年</td>
         <td align="center">洛邑</td>
-<table>
-    <tr>
-        <th align="center" colspan="4">朝代</td>
-        <th align="center">起讫时间</td>
-        <th align="center">都城</td>
-        <th align="center">今地</td>
-        <th align="center">统治民族</td>
-        <th align="center">开国皇帝</td>
-    </tr>
-    <tr>
-        <td align="center" colspan="4"><b>三皇五帝</td>
-        <td align="center" colspan="5">三皇：
-            <b>伏羲、燧人、神农</b>&emsp;&emsp;五帝：
-            <b>黄帝、颛顼、帝喾、唐尧、虞舜</b>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" colspan="4"><b>夏朝</td>
-        <td align="center">前2146年~前1675年</td>
-        <td align="center">安邑</td>
-        <td align="center">山西夏县</td>
-        <td align="center">华夏族</td>
-        <td align="center">禹</td>
-    </tr>
-    <tr>
-        <td align="center" colspan="2" rowspan="3"><b>周朝</td>
-        <td align="center" colspan="2"><b>西周</td>
-        <td align="center" style="font-family:verdana">前1029年~前771年</td>
-        <td align="center">镐京</td>
-        <td align="center">陕西西安</td>
-        <td align="center">华夏族</td>
-        <td align="center">文王姬昌</td>
-    </tr>
-    <tr>
-        <td align="center" rowspan="2"><b>东周</td>
-        <td align="center"><b>春秋</td>
-        <td align="center">前770年~前476年</td>
-        <td align="center">洛邑</td>
         <td align="center">河南洛阳</td>
         <td align="center">华夏族</td>
         <td align="center">平王姬宜臼</td>
