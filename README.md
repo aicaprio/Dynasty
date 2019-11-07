@@ -20,7 +20,7 @@
     </tr>
     <tr>
         <td align="center" colspan="4"><b>夏朝</td>
-        <td align="center">2146 B.C.~1675 B.C.</td>
+        <td align="center">前2146年~前1675年</td>
         <td align="center">安邑</td>
         <td align="center">山西夏县</td>
         <td align="center">华夏族</td>
@@ -29,7 +29,7 @@
     <tr>
         <td align="center" colspan="2" rowspan="3"><b>周朝</td>
         <td align="center" colspan="2"><b>西周</td>
-        <td align="center" style="font-family:verdana">1029 B.C.~771 B.C.</td>
+        <td align="center" style="font-family:verdana">前1029年~前771年</td>
         <td align="center">镐京</td>
         <td align="center">陕西西安</td>
         <td align="center">华夏族</td>
@@ -38,7 +38,7 @@
     <tr>
         <td align="center" rowspan="2"><b>东周</td>
         <td align="center"><b>春秋</td>
-        <td align="center">770 B.C.~476 B.C.</td>
+        <td align="center">前770年~前476年</td>
         <td align="center">洛邑</td>
         <td align="center">河南洛阳</td>
         <td align="center">华夏族</td>
@@ -46,7 +46,7 @@
     </tr>
     <tr>
         <td align="center"><b>战国</td>
-        <td align="center">475 B.C.~221 B.C.</td>
+        <td align="center">前475年~前221年</td>
         <td align="center"></td>
         <td align="center"></td>
         <td align="center">华夏族</td>
@@ -54,7 +54,7 @@
     </tr>
     <tr>
         <td align="center" colspan="4"><b>秦朝</td>
-        <td align="center">221 B.C.~07 B.C.</td>
+        <td align="center">前221年~前207年</td>
         <td align="center">咸阳</td>
         <td align="center">陕西咸阳</td>
         <td align="center">华夏族</td>
@@ -63,7 +63,7 @@
     <tr>
         <td align="center" rowspan="4" colspan="2"><b>汉朝</td>
         <td align="center" colspan="2"><b>西汉</td>
-        <td align="center">206 B.C.~A.D. 8</td>
+        <td align="center">前206年~公元8年</td>
         <td align="center">长安</td>
         <td align="center">陕西西安</td>
         <td align="center">汉族</td>
