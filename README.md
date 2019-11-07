@@ -160,7 +160,7 @@
         <td align="center">晋武帝司马炎</td>
     </tr>
     <tr>
-        <td colspan="2">东晋</td>
+        <td align="center" colspan="2">东晋</td>
         <td align="center">317-420</td>
         <td align="center">建康</td>
         <td align="center">江苏南京</td>
@@ -168,16 +168,7 @@
         <td align="center">晋元帝司马睿</td>
     </tr>
     <tr>
-        <td rowspan="20">
-            <strong>
-                <a style="color:#000;" href="http://114.xixik.com/chaodai/5hu16guo/" title="五胡十六国">
-                    十六国
-                </a>
-            </strong>
-            ⑤
-            <br />
-            304-439
-        </td>
+        <td rowspan="20" align="center" colspan="2"> 十六国 <br /> 304年~439年</td>
         <td colspan="2" rowspan="2">前赵
             <br />
             （汉赵）
