@@ -142,8 +142,8 @@
         <td align="center">304年~318年</td>
         <td align="center">平阳</td>
         <td align="center">山西临汾</td>
-        <td rowspan="2">匈奴族</td>
-        <td rowspan="2">高祖光文皇帝刘渊</td>
+        <td align="center"rowspan="2">匈奴族</td>
+        <td align="center"rowspan="2">高祖光文皇帝刘渊</td>
     </tr>
     <tr>
         <td align="center">319年~329年</td>
@@ -329,13 +329,13 @@
         <td align="center">陈武帝陈霸先</td>
     </tr>
     <tr>
-        <td rowspan="6">北朝</td>
-        <td rowspan="2">北魏</td>
-        <td rowspan="2">386年~534年</td>
+        <td align="center" rowspan="6">北朝</td>
+        <td align="center" rowspan="2">北魏</td>
+        <td align="center" rowspan="2">386年~534年</td>
         <td align="center">平城</td>
         <td align="center">山西大同</td>
-        <td rowspan="2">鲜卑族</td>
-        <td rowspan="2">魏道武帝拓跋珪</td>
+        <td align="center" rowspan="2">鲜卑族</td>
+        <td align="center" rowspan="2">魏道武帝拓跋珪</td>
     </tr>
     <tr>
         <td align="center">洛阳</td>
