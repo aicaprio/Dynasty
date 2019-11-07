@@ -61,7 +61,7 @@
         <td align="center">始皇帝嬴政</td>
     </tr>
     <tr>
-        <td align="center" rowspan="4" colspan="2">汉朝 </td>
+        <td align="center" rowspan="4" colspan="2">汉朝</td>
         <td align="center" colspan="2">西汉</td>
         <td align="center">前206~公元8年</td>
         <td align="center">长安</td>
