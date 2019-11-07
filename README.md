@@ -125,8 +125,9 @@
         <td align="center">汉族</td>
         <td align="center">光武帝刘秀</td>
     </tr>
+
     <tr>
-        <td align="center" center colspan="2>三国</td>
+        <td align="center" center colspan="2><b>三国</td>
         <td align=" rowspan="3"" colspan="2">
         <b>曹魏</td>
         <td align="center">220-265年</td>
