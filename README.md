@@ -1,5 +1,4 @@
 <table>
-   <table>
     <tr>
         <th align="center" colspan="4">朝代</td>
         <th align="center">起讫时间</td>
@@ -139,7 +138,7 @@
     </tr>
     <tr>
         <td align="center" colspan="2" rowspan="20">十六国<br><br>304年~439年</td>
-        <td colspan="2" rowspan="2">前赵<br>汉赵</td>
+        <td align="center" colspan="2" rowspan="2">前赵<br>(汉赵)</td>
         <td align="center">304年~318年</td>
         <td align="center">平阳</td>
         <td align="center">山西临汾</td>
@@ -152,7 +151,7 @@
         <td align="center">陕西西安</td>
     </tr>
     <tr>
-        <td colspan="2">成汉</td>
+        <td align="center" colspan="2">成汉</td>
         <td align="center">306年~347年</td>
         <td align="center">成都</td>
         <td align="center">四川成都</td>
@@ -160,7 +159,7 @@
         <td align="center">太宗武皇帝李雄</td>
     </tr>
     <tr>
-        <td colspan="2">前凉</td>
+        <td align="center" colspan="2">前凉</td>
         <td align="center">314年~363年</td>
         <td align="center">姑臧</td>
         <td align="center">甘肃武威</td>
@@ -168,7 +167,7 @@
         <td align="center">高祖明王张寔</td>
     </tr>
     <tr>
-        <td colspan="2">后赵</td>
+        <td align="center" colspan="2">后赵</td>
         <td align="center">319年~351年</td>
         <td align="center">襄国</td>
         <td align="center">河北邢台</td>
@@ -176,7 +175,7 @@
         <td align="center">高祖明皇帝石勒</td>
     </tr>
     <tr>
-        <td colspan="2">前燕</td>
+        <td align="center" colspan="2">前燕</td>
         <td align="center">337年~370年</td>
         <td align="center">龙城</td>
         <td align="center">辽宁朝阳</td>
@@ -184,7 +183,7 @@
         <td align="center">太祖文明皇帝慕容皝</td>
     </tr>
     <tr>
-        <td colspan="2">前秦</td>
+        <td align="center" colspan="2">前秦</td>
         <td align="center">351年~394年</td>
         <td align="center">长安</td>
         <td align="center">陕西西安</td>
@@ -192,7 +191,7 @@
         <td align="center">世宗明皇帝苻健</td>
     </tr>
     <tr>
-        <td colspan="2">后秦</td>
+        <td align="center" colspan="2">后秦</td>
         <td align="center">384年~417年</td>
         <td align="center">长安</td>
         <td align="center">陕西西安</td>
@@ -200,7 +199,7 @@
         <td align="center">太祖武昭皇帝姚苌</td>
     </tr>
     <tr>
-        <td colspan="2">后燕</td>
+        <td align="center" colspan="2">后燕</td>
         <td align="center">384年~407年</td>
         <td align="center">中山</td>
         <td align="center">河北定州</td>
@@ -208,7 +207,7 @@
         <td align="center">世祖成武皇帝慕容垂</td>
     </tr>
     <tr>
-        <td colspan="2">西秦</td>
+        <td align="center" colspan="2">西秦</td>
         <td align="center">385年~431年</td>
         <td align="center">苑川</td>
         <td align="center">甘肃榆中</td>
@@ -216,7 +215,7 @@
         <td align="center">烈祖宣烈王乞伏国仁</td>
     </tr>
     <tr>
-        <td colspan="2">后凉</td>
+        <td align="center" colspan="2">后凉</td>
         <td align="center">386年~403年</td>
         <td align="center">略阳</td>
         <td align="center">甘肃平凉</td>
@@ -224,7 +223,7 @@
         <td align="center">太祖懿武皇帝吕光</td>
     </tr>
     <tr>
-        <td colspan="2">南凉</td>
+        <td align="center" colspan="2">南凉</td>
         <td align="center">397年~414年</td>
         <td align="center">西平</td>
         <td align="center">青海西宁</td>
@@ -232,7 +231,7 @@
         <td align="center">烈祖武王拓跋乌孤</td>
     </tr>
     <tr>
-        <td colspan="2">南燕</td>
+        <td align="center" colspan="2">南燕</td>
         <td align="center">398年~410年</td>
         <td align="center">广固</td>
         <td align="center">山东益都</td>
@@ -240,7 +239,7 @@
         <td align="center">世宗献武皇帝慕容德</td>
     </tr>
     <tr>
-        <td colspan="2">西凉</td>
+        <td align="center" colspan="2">西凉</td>
         <td align="center">407年~421年</td>
         <td align="center">酒泉</td>
         <td align="center">甘肃酒泉</td>
@@ -248,7 +247,7 @@
         <td align="center">太祖昭武王李暠</td>
     </tr>
     <tr>
-        <td colspan="2">胡夏</td>
+        <td align="center" colspan="2">胡夏</td>
         <td align="center">407年~431年</td>
         <td align="center">统万城</td>
         <td align="center">陕西靖边</td>
@@ -256,7 +255,7 @@
         <td align="center">世祖烈武皇帝赫连勃勃</td>
     </tr>
     <tr>
-        <td colspan="2">北燕</td>
+        <td align="center" colspan="2">北燕</td>
         <td align="center">407年~436年</td>
         <td align="center">和龙</td>
         <td align="center">辽宁朝阳</td>
@@ -264,7 +263,7 @@
         <td align="center">燕惠懿帝高云</td>
     </tr>
     <tr>
-        <td colspan="2">北凉</td>
+        <td align="center" colspan="2">北凉</td>
         <td align="center">397年~439年</td>
         <td align="center">张掖</td>
         <td align="center">甘肃张掖</td>
@@ -272,7 +271,7 @@
         <td align="center">太祖武宣王沮渠蒙逊</td>
     </tr>
     <tr>
-        <td colspan="2">*冉魏</td>
+        <td align="center" colspan="2">*冉魏</td>
         <td align="center">350年~352年</td>
         <td align="center">邺城</td>
         <td align="center">河北临漳</td>
@@ -280,7 +279,7 @@
         <td align="center">武悼天王冉闵</td>
     </tr>
     <tr>
-        <td colspan="2">*西燕</td>
+        <td align="center" colspan="2">*西燕</td>
         <td align="center">384年~394年</td>
         <td align="center">长子</td>
         <td align="center">山西长子</td>
@@ -288,7 +287,7 @@
         <td align="center">济北王慕容泓</td>
     </tr>
     <tr>
-        <td colspan="2">*西蜀<br>(后蜀)</td>
+        <td align="center" colspan="2">*西蜀<br>(后蜀)</td>
         <td align="center">405-413</td>
         <td align="center">益州</td>
         <td align="center">四川成都</td>
