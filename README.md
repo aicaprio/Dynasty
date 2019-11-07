@@ -168,7 +168,7 @@
         <td align="center">晋元帝司马睿</td>
     </tr>
     <tr>
-        <td rowspan="20" align="center" colspan="2"> 十六国 <br /> 304年~439年</td>
+        <td rowspan="20" align="center" colspan="2"> 十六国<br><br>304年~439年</td>
         <td colspan="2" rowspan="2">前赵
             <br />
             （汉赵）
