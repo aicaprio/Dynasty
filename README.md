@@ -295,7 +295,7 @@
         <td align="center">成都王谯纵</td>
     </tr>
     <tr>
-        <td align="center" rowspan="10" colspan="2">南北朝<br>420年~589年</td>
+        <td align="center" rowspan="10" colspan="2">南北朝<br><br>420年~589年</td>
         <td align="center" rowspan="4">南朝</td>
         <td align="center">刘宋</td>
         <td align="center">420年~479年</td>
@@ -372,5 +372,142 @@
         <td align="center">陕西西安</td>
         <td align="center">鲜卑族</td>
         <td align="center">孝闵帝宇文觉</td>
+    </tr>
+    <tr>
+        <td align="center" colspan="4">隋朝</td>
+        <td align="center">581年~618年</td>
+        <td align="center">大兴</td>
+        <td align="center">陕西西安</td>
+        <td align="center">汉族</td>
+        <td align="center">隋文帝杨坚</td>
+    </tr>
+    <tr>
+        <td align="center" colspan="4">唐朝</td>
+        <td align="center">618年~907年</td>
+        <td align="center">长安</td>
+        <td align="center">陕西西安</td>
+        <td align="center">汉族</td>
+        <td align="center">唐高祖李渊</td>
+    </tr>
+    <tr>
+        <td align="center" rowspan="15" colspan="2">五代十国</td>
+        <td align="center" colspan="2">后梁</td>
+        <td align="center">907年~923年</td>
+        <td align="center">汴</td>
+        <td align="center">河南开封</td>
+        <td align="center">汉族</td>
+        <td align="center">梁太祖朱晃</td>
+    </tr>
+    <tr>
+        <td align="center" colspan="2">后唐</td>
+        <td align="center">923年~936年</td>
+        <td align="center">洛阳</td>
+        <td align="center">河南洛阳</td>
+        <td align="center">沙陀族</td>
+        <td align="center">唐庄宗李存勖</td>
+    </tr>
+    <tr>
+        <td align="center" colspan="2">后晋</td>
+        <td align="center">936年~947年</td>
+        <td align="center">汴</td>
+        <td align="center">河南开封</td>
+        <td align="center">沙陀族</td>
+        <td align="center">晋高祖石敬瑭</td>
+    </tr>
+    <tr>
+        <td align="center" colspan="2">后汉</td>
+        <td align="center">947年~950年</td>
+        <td align="center">汴</td>
+        <td align="center">河南开封</td>
+        <td align="center">沙陀族</td>
+        <td align="center">汉高祖刘暠</td>
+    </tr>
+    <tr>
+        <td align="center" colspan="2">后周</td>
+        <td align="center">951年~960年</td>
+        <td align="center">汴</td>
+        <td align="center">河南开封</td>
+        <td align="center">汉族</td>
+        <td align="center">周太祖郭威</td>
+    </tr>
+    <tr>
+        <td align="center" colspan="2">前蜀</td>
+        <td align="center">891年~925年</td>
+        <td align="center">成都</td>
+        <td align="center">四川成都</td>
+        <td align="center">汉族</td>
+        <td align="center">高祖王建</td>
+    </tr>
+    <tr>
+        <td align="center" colspan="2">后蜀</td>
+        <td align="center">925年~965年</td>
+        <td align="center">成都</td>
+        <td align="center">四川成都</td>
+        <td align="center">汉族</td>
+        <td align="center">高祖孟知祥</td>
+    </tr>
+    <tr>
+        <td align="center" colspan="2">杨吴</td>
+        <td align="center">892年~937年</td>
+        <td align="center">广陵</td>
+        <td align="center">江苏扬州</td>
+        <td align="center">汉族</td>
+        <td align="center">太祖杨行密</td>
+    </tr>
+    <tr>
+        <td align="center" colspan="2">南唐</td>
+        <td align="center">937年~975年</td>
+        <td align="center">江宁</td>
+        <td align="center">江苏南京</td>
+        <td align="center">汉族</td>
+        <td align="center">烈祖李昪</td>
+    </tr>
+    <tr>
+        <td align="center" colspan="2">吴越</td>
+        <td align="center">893年~978年</td>
+        <td align="center">杭州</td>
+        <td align="center">浙江杭州</td>
+        <td align="center">汉族</td>
+        <td align="center">武肃王钱鏐</td>
+    </tr>
+    <tr>
+        <td align="center" colspan="2">闽国</td>
+        <td align="center">893年~945年</td>
+        <td align="center">长乐</td>
+        <td align="center">福建福州</td>
+        <td align="center">汉族</td>
+        <td align="center">太祖王审知</td>
+    </tr>
+    <tr>
+        <td align="center" colspan="2">马楚</td>
+        <td align="center">896年~951年</td>
+        <td align="center">长沙</td>
+        <td align="center">湖南长沙</td>
+        <td align="center">汉族</td>
+        <td align="center">武穆王马殷</td>
+    </tr>
+    <tr>
+        <td align="center" colspan="2">南汉</td>
+        <td align="center">905年~971年</td>
+        <td align="center">广州</td>
+        <td align="center">广东广州</td>
+        <td align="center">汉族</td>
+        <td align="center">高祖刘龑</td>
+    </tr>
+    <tr>
+        <td colspan="2">南平</td>
+        <td align="center">907年~963年</td>
+        <td align="center">荆州</td>
+        <td align="center">湖北荆州</td>
+        <td align="center">汉族</td>
+        <td align="center">武信王高季兴</td>
+    </tr>
+    <tr>
+        <td colspan="2">北汉</td>
+        <td align="center">951年~979年</td>
+        <td align="center">晋阳</td>
+        <td align="center">山西太原</td>
+        <td align="center">沙陀族</td>
+        <td align="center">世祖刘崇</td>
     </tr>
   </table>
