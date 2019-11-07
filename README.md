@@ -28,7 +28,7 @@
         <td align="center">汤</td>
     </tr>
     <tr>
-        <td align="center" colspan="2" rowspan="3">周朝 </td>
+        <td align="center" colspan="2" rowspan="3">周朝</td>
         <td align="center" colspan="2">西周</td>
         <td align="center">前1029年~前771年</td>
         <td align="center">镐京</td>
@@ -48,10 +48,10 @@
     <tr>
         <td align="center">战国</td>
         <td align="center">前475年~前221年</td>
-        <td align="center"></td>
-        <td align="center"></td>
+        <td align="center">-</td>
+        <td align="center">-</td>
         <td align="center">华夏族</td>
-        <td align="center"></td>
+        <td align="center">-</td>
     </tr>
     <tr>
         <td align="center" colspan="4">秦朝</td>
@@ -81,8 +81,10 @@
     <tr>
         <td align="center" colspan="2">玄汉</td>
         <td align="center">23年~25年</td>
-        <td align="center">宛城<br>洛阳<br>长安</td>
-        <td align="center">河南南阳<br>河南洛阳<br>山西西安</td>
+        <td align="center">宛城<br>洛阳<br>长安
+        </td>
+        <td align="center">河南南阳<br>河南洛阳<br>山西西安
+        </td>
         <td align="center">汉族</td>
         <td align="center">更始帝刘玄</td>
     </tr>
@@ -137,13 +139,17 @@
         <td align="center">晋元帝司马睿</td>
     </tr>
     <tr>
-        <td align="center" colspan="2" rowspan="20">十六国<br><br>304年~439年</td>
-        <td align="center" colspan="2" rowspan="2">前赵<br>(汉赵)</td>
+        <td align="center" colspan="2" rowspan="20">十六国
+            <br>
+            <br>304年~439年
+        </td>
+        <td align="center" colspan="2" rowspan="2">前赵<br>(汉赵)
+        </td>
         <td align="center">304年~318年</td>
         <td align="center">平阳</td>
         <td align="center">山西临汾</td>
-        <td align="center"rowspan="2">匈奴族</td>
-        <td align="center"rowspan="2">高祖光文皇帝刘渊</td>
+        <td align="center" rowspan="2">匈奴族</td>
+        <td align="center" rowspan="2">高祖光文皇帝刘渊</td>
     </tr>
     <tr>
         <td align="center">319年~329年</td>
@@ -287,7 +293,8 @@
         <td align="center">济北王慕容泓</td>
     </tr>
     <tr>
-        <td align="center" colspan="2">*西蜀<br>(*后蜀)</td>
+        <td align="center" colspan="2">*西蜀<br>(*后蜀)
+        </td>
         <td align="center">405-413</td>
         <td align="center">益州</td>
         <td align="center">四川成都</td>
@@ -295,7 +302,10 @@
         <td align="center">成都王谯纵</td>
     </tr>
     <tr>
-        <td align="center" rowspan="10" colspan="2">南北朝<br><br>420年~589年</td>
+        <td align="center" colspan="2" rowspan="10">南北朝
+            <br>
+            <br>420年~589年
+        </td>
         <td align="center" rowspan="4">南朝</td>
         <td align="center">刘宋</td>
         <td align="center">420年~479年</td>
@@ -390,7 +400,10 @@
         <td align="center">唐高祖李渊</td>
     </tr>
     <tr>
-        <td align="center" rowspan="15" colspan="2">五代十国<br><br>907年~979年</td>
+        <td align="center" colspan="2" rowspan="15">五代十国
+            <br>
+            <br>907年~979年
+        </td>
         <td align="center" colspan="2">后梁</td>
         <td align="center">907年~923年</td>
         <td align="center">汴</td>
@@ -510,4 +523,85 @@
         <td align="center">沙陀族</td>
         <td align="center">世祖刘崇</td>
     </tr>
-  </table>
+    <tr>
+        <td align="center" colspan="2" rowspan="2">宋朝</td>
+        <td align="center" colspan="2">北宋</td>
+        <td align="center">960年~1127年</td>
+        <td align="center">开封</td>
+        <td align="center">河南开封</td>
+        <td align="center">汉族</td>
+        <td align="center">太祖赵匡胤</td>
+    </tr>
+    <tr>
+        <td align="center" colspan="2">南宋</td>
+        <td align="center">1127年~1279年</td>
+        <td align="center">临安</td>
+        <td align="center">浙江杭州</td>
+        <td align="center">汉族</td>
+        <td align="center">高宗赵构</td>
+    </tr>
+    <tr>
+        <td align="center" colspan="4">辽国</td>
+        <td align="center">907年~1125年</td>
+        <td align="center">皇都</td>
+        <td align="center">辽宁</td>
+        <td align="center">契丹族</td>
+        <td align="center">太祖耶律阿保机</td>
+    </tr>
+    <tr>
+        <td align="center" colspan="4">大理</td>
+        <td align="center">937年~1254年</td>
+        <td align="center">太和城</td>
+        <td align="center">云南大理</td>
+        <td align="center">白族</td>
+        <td align="center">太祖段思平</td>
+    </tr>
+    <tr>
+        <td align="center" colspan="4">西夏</td>
+        <td align="center">1032年~1227年</td>
+        <td align="center">兴庆府</td>
+        <td align="center">宁夏银川</td>
+        <td align="center">党项族</td>
+        <td align="center">景帝李元昊</td>
+    </tr>
+    <tr>
+        <td align="center" colspan="4" rowspan="3">金朝</td>
+        <td align="center" rowspan="3">1115-1234</td>
+        <td align="center">会宁</td>
+        <td align="center">阿城(黑)</td>
+        <td align="center" rowspan="3">女真族</td>
+        <td align="center" rowspan="3">金太祖阿骨打</td>
+    </tr>
+    <tr>
+        <td align="center">中都</td>
+        <td align="center">北京</td>
+    </tr>
+    <tr>
+        <td align="center">汴京</td>
+        <td align="center">河南开封</td>
+    </tr>
+    <tr>
+        <td align="center" colspan="4">元朝</td>
+        <td align="center">1206年~1368年</td>
+        <td align="center">大都</td>
+        <td align="center">北京</td>
+        <td align="center">蒙古族</td>
+        <td align="center">元世祖忽必烈</td>
+    </tr>
+    <tr>
+        <td align="center" colspan="4">明朝</td>
+        <td align="center">1368年~1644年</td>
+        <td align="center">北京</td>
+        <td align="center">北京</td>
+        <td align="center">汉族</td>
+        <td align="center">明太祖朱元璋</td>
+    </tr>
+    <tr>
+        <td align="center" colspan="4">清朝</td>
+        <td align="center">1636年~1911年</td>
+        <td align="center">北京</td>
+        <td align="center">北京</td>
+        <td align="center">满族</td>
+        <td align="center">清太宗皇太极</td>
+    </tr>
+</table>
