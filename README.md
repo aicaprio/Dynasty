@@ -20,7 +20,7 @@
     </tr>
     <tr>
         <td align="center" colspan="4"><b>夏朝</td>
-        <td align="center">前2146年——前1675年</td>
+        <td align="center">前2146年--前1675年</td>
         <td align="center">安邑</td>
         <td align="center">山西夏县</td>
         <td align="center">华夏族</td>
@@ -28,7 +28,7 @@
     </tr>
      <tr>
         <td align="center" colspan="4"><b>商朝</td>
-        <td align="center">前1675年——前1029年</td>
+        <td align="center">前1675年--前1029年</td>
         <td align="center">亳</td>
         <td align="center">河南商丘</td>
         <td align="center">华夏族</td>
