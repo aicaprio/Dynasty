@@ -288,7 +288,7 @@
     </tr>
     <tr>
         <td align="center" colspan="2">*西蜀<br>(后蜀)</td>
-        <td align="center">405-413</td>
+        <td align="center">405年~413年</td>
         <td align="center">益州</td>
         <td align="center">四川成都</td>
         <td align="center">汉族</td>
