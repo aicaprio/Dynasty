@@ -390,7 +390,7 @@
         <td align="center">唐高祖李渊</td>
     </tr>
     <tr>
-        <td align="center" rowspan="15" colspan="2">五代十国</td>
+        <td align="center" rowspan="15" colspan="2">五代十国<br><br>907年~979年</td>
         <td align="center" colspan="2">后梁</td>
         <td align="center">907年~923年</td>
         <td align="center">汴</td>
@@ -495,7 +495,7 @@
         <td align="center">高祖刘龑</td>
     </tr>
     <tr>
-        <td colspan="2">南平</td>
+        <td align="center" colspan="2">南平</td>
         <td align="center">907年~963年</td>
         <td align="center">荆州</td>
         <td align="center">湖北荆州</td>
@@ -503,7 +503,7 @@
         <td align="center">武信王高季兴</td>
     </tr>
     <tr>
-        <td colspan="2">北汉</td>
+        <td align="center" colspan="2">北汉</td>
         <td align="center">951年~979年</td>
         <td align="center">晋阳</td>
         <td align="center">山西太原</td>
