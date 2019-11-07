@@ -20,7 +20,7 @@
     </tr>
     <tr>
         <td align="center" colspan="4">夏朝</td>
-        <td align="center">公元前2146年~公元前1675年 (约)</td>
+        <td align="center">(约) 公元前2146年~公元前1675年</td>
         <td align="center">安邑</td>
         <td align="center">山西夏县</td>
         <td align="center">华夏族</td>
@@ -29,7 +29,7 @@
     <tr>
         <td align="center" colspan="2" rowspan="3">周朝</td>
         <td align="center" colspan="2">西周</td>
-        <td align="center">公元前1029年~公元前771年 (约)</td>
+        <td align="center">(约) 公元前1029年~公元前771年</td>
         <td align="center">镐京</td>
         <td align="center">陕西西安</td>
         <td align="center">华夏族</td>
