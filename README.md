@@ -151,6 +151,6 @@
         <td align="center">汉族</td>
         <td align="center">吴大帝孙权</td>
     </tr>
-</table>¬
+</table>
 
 ## [感谢](http://114.xixik.com/chinese-dynasties/)
