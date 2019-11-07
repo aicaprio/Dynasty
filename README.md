@@ -287,11 +287,90 @@
         <td align="center">济北王慕容泓</td>
     </tr>
     <tr>
-        <td align="center" colspan="2">*西蜀<br>(后蜀)</td>
-        <td align="center">405年~413年</td>
+        <td align="center" colspan="2">*西蜀<br>(*后蜀)</td>
+        <td align="center">405-413</td>
         <td align="center">益州</td>
         <td align="center">四川成都</td>
         <td align="center">汉族</td>
         <td align="center">成都王谯纵</td>
+    </tr>
+    <tr>
+        <td align="center" colspan="2" rowspan="10">南北朝<br>420年~589年</td>
+        <td align="center" colspan="2" rowspan="4">南朝</td>
+        <td align="center">刘宋</td>
+        <td align="center">420年~479年</td>
+        <td align="center">建康</td>
+        <td align="center">江苏南京</td>
+        <td align="center">汉族</td>
+        <td align="center">宋武帝刘裕</td>
+    </tr>
+    <tr>
+        <td align="center">萧齐</td>
+        <td align="center">479年~502年</td>
+        <td align="center">建康</td>
+        <td align="center">江苏南京</td>
+        <td align="center">汉族</td>
+        <td align="center">齐高帝萧道成</td>
+    </tr>
+    <tr>
+        <td align="center">萧梁</td>
+        <td align="center">502年~557年</td>
+        <td align="center">建康</td>
+        <td align="center">江苏南京</td>
+        <td align="center">汉族</td>
+        <td align="center">梁武帝萧衍</td>
+    </tr>
+    <tr>
+        <td align="center">南陈</td>
+        <td align="center">557年~589年</td>
+        <td align="center">建康</td>
+        <td align="center">江苏南京</td>
+        <td align="center">汉族</td>
+        <td align="center">陈武帝陈霸先</td>
+    </tr>
+    <tr>
+        <td rowspan="6">北朝</td>
+        <td rowspan="2">北魏</td>
+        <td rowspan="2">386年~534年</td>
+        <td align="center">平城</td>
+        <td align="center">山西大同</td>
+        <td rowspan="2">鲜卑族</td>
+        <td rowspan="2">魏道武帝拓跋珪</td>
+    </tr>
+    <tr>
+        <td align="center">洛阳</td>
+        <td align="center">河南洛阳</td>
+    </tr>
+    <tr>
+        <td align="center">东魏</td>
+        <td align="center">534年~550年</td>
+        <td align="center">邺</td>
+        <td align="center">河北临漳</td>
+        <td align="center">鲜卑族</td>
+        <td align="center">魏孝静帝元善见</td>
+    </tr>
+    <tr>
+        <td align="center">西魏</td>
+        <td align="center">535年~556年</td>
+        <td align="center">长安</td>
+        <td align="center">陕西西安</td>
+        <td align="center">鲜卑族</td>
+        <td align="center">魏文帝元宝炬</td>
+    </tr>
+    <tr>
+        <td align="center">北齐</td>
+        <td align="center">550年~577年</td>
+        <td align="center">邺</td>
+        <td align="center">河北临漳</td>
+        <td align="center">鲜卑族</td>
+        <td align="center">齐文宣帝高洋</td>
+    </tr>
+    <tr>
+        <td align="center">北周</td>
+        <td align="center">557年~581年</td>
+        <td align="center">长安</td>
+        <td align="center">陕西西安</td>
+        <td align="center">鲜卑族</td>
+        <td align="center">孝闵帝宇文觉</td>
     </tr>
   </table>
