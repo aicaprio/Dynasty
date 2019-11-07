@@ -22,7 +22,7 @@
     <tr>
         <td align="center" colspan="4"><b>夏朝
         </td>
-        <td align="center">前2146年--前1675年</td>
+        <td align="center">前2146年-前1675年</td>
         <td align="center">安邑</td>
         <td align="center">山西夏县</td>
         <td align="center">华夏族</td>
@@ -31,7 +31,7 @@
     <tr>
         <td align="center" colspan="4"><b>商朝
         </td>
-        <td align="center">前1675年--前1029年</td>
+        <td align="center">前1675年-前1029年</td>
         <td align="center">亳</td>
         <td align="center">河南商丘</td>
         <td align="center">华夏族</td>
@@ -42,7 +42,7 @@
         </td>
         <td align="center" colspan="2"><b>西周
         </td>
-        <td style="font-family:verdana" align="center">前1029年~前771年</td>
+        <td align="center">前1029年-前771年</td>
         <td align="center">镐京</td>
         <td align="center">陕西西安</td>
         <td align="center">华夏族</td>
@@ -53,7 +53,7 @@
         </td>
         <td align="center"><b>春秋
         </td>
-        <td align="center">前770年~前476年</td>
+        <td align="center">前770年-前476年</td>
         <td align="center">洛邑</td>
         <td align="center">河南洛阳</td>
         <td align="center">华夏族</td>
@@ -62,7 +62,7 @@
     <tr>
         <td align="center"><b>战国
         </td>
-        <td align="center">前475年~前221年</td>
+        <td align="center">前475年-前221年</td>
         <td align="center"></td>
         <td align="center"></td>
         <td align="center">华夏族</td>
@@ -71,7 +71,7 @@
     <tr>
         <td align="center" colspan="4"><b>秦朝
         </td>
-        <td align="center">前221年~前207年</td>
+        <td align="center">前221年-前207年</td>
         <td align="center">咸阳</td>
         <td align="center">陕西咸阳</td>
         <td align="center">华夏族</td>
@@ -82,7 +82,7 @@
         </td>
         <td align="center" colspan="2"><b>西汉
         </td>
-        <td align="center">前206年~公元8年</td>
+        <td align="center">前206年-公元8年</td>
         <td align="center">长安</td>
         <td align="center">陕西西安</td>
         <td align="center">汉族</td>
@@ -91,7 +91,7 @@
     <tr>
         <td align="center" colspan="2"><b>新朝
         </td>
-        <td align="center">公元9年~公元23年</td>
+        <td align="center">公元9年-公元23年</td>
         <td align="center">常安</td>
         <td align="center">陕西西安</td>
         <td align="center">汉族</td>
@@ -100,7 +100,7 @@
     <tr>
         <td align="center" colspan="2"><b>玄汉
         </td>
-        <td align="center">公元23年~公元25年</td>
+        <td align="center">公元23年-公元25年</td>
         <td align="center">宛城
             <br />
             洛阳
@@ -119,7 +119,7 @@
     <tr>
         <td align="center" colspan="2"><b>东汉
         </td>
-        <td align="center">公元25年~公元220年</td>
+        <td align="center">公元25年-公元220年</td>
         <td align="center">洛阳</td>
         <td align="center">河南洛阳</td>
         <td align="center">汉族</td>
@@ -128,7 +128,7 @@
     <tr>
         <td align="center" rowspan="3" colspan="2"><b>三国</td>
         <td align="center" colspan="2"><b>曹魏</td>
-        <td align="center">220-265年</td>
+        <td align="center">公元220年-公元265年</td>
         <td align="center">洛阳</td>
         <td align="center">河南洛阳</td>
         <td align="center">汉族</td>
@@ -137,7 +137,7 @@
     <tr>
         <td align="center" colspan="2"><b>蜀汉
         </td>
-        <td align="center">221-263年</td>
+        <td align="center">公元221年-公元263年</td>
         <td align="center">成都</td>
         <td align="center">四川成都</td>
         <td align="center">汉族</td>
@@ -145,12 +145,12 @@
     </tr>
     <tr>
         <td align="center" colspan="2"><b>孙吴</td>
-        <td align="center">222-280年</td>
+        <td align="center">公元222年-公元280年</td>
         <td align="center">建业</td>
         <td align="center">江苏南京</td>
         <td align="center">汉族</td>
         <td align="center">吴大帝孙权</td>
     </tr>
-</table>
+</table>¬
 
 ## [感谢](http://114.xixik.com/chinese-dynasties/)
