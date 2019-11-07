@@ -144,7 +144,7 @@
         <td align="center">汉昭烈帝刘备</td>
     </tr>
     <tr>
-        <td align="center" colspan="2">孙吴</td>
+        <td align="center" colspan="2"><b>孙吴</td>
         <td align="center">222-280年</td>
         <td align="center">建业</td>
         <td align="center">江苏南京</td>
