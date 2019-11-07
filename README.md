@@ -36,4 +36,5 @@
 </table>
 
 
-#[感谢](http://114.xixik.com/chinese-dynasties/)
+#感谢
+[中国历史朝代顺序详表](http://114.xixik.com/chinese-dynasties/)
