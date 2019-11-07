@@ -13,7 +13,10 @@
     </tr>
     <tr>
         <td align="center" colspan="4">三皇五帝</td>
-        <td align="center" colspan="5">三皇：<b>伏羲、燧人、神农</b>&emsp;&emsp;五帝：<b>黄帝、颛顼、帝喾、唐尧、虞舜</b></td>
+        <td align="center" colspan="5">三皇：
+            <b>伏羲、燧人、神农</b>&emsp;&emsp;五帝：
+            <b>黄帝、颛顼、帝喾、唐尧、虞舜</b>
+        </td>
     </tr>
     <tr>
         <td align="center" colspan="4">夏朝</td>
@@ -23,8 +26,8 @@
         <td align="center">华夏族</td>
         <td align="center">禹</td>
     </tr>
-   <tr>
-        <td align="center" rowspan="3" colspan="2">周朝</td>
+    <tr>
+        <td align="center" colspan="2" rowspan="3">周朝</td>
         <td align="center" colspan="2">西周</td>
         <td align="center">前1029年~前771年 (约)</td>
         <td align="center">镐京</td>
@@ -32,8 +35,8 @@
         <td align="center">华夏族</td>
         <td align="center">文王姬昌</td>
     </tr>
-    <tr >
-        <td rowspan="2" align="center">东周</td>
+    <tr>
+        <td align="center" rowspan="2">东周</td>
         <td align="center">春秋</td>
         <td align="center">前770~前476年</td>
         <td align="center">洛邑</td>
@@ -41,7 +44,7 @@
         <td align="center">华夏族</td>
         <td align="center">平王姬宜臼</td>
     </tr>
-    <tr >
+    <tr>
         <td align="center">战国</td>
         <td align="center">前475~前221年</td>
         <td align="center"></td>
@@ -49,7 +52,7 @@
         <td align="center">华夏族</td>
         <td align="center"></td>
     </tr>
-     <tr>
+    <tr>
         <td align="center" colspan="4">秦朝</td>
         <td align="center">前221~前207年</td>
         <td align="center">咸阳</td>
@@ -58,7 +61,7 @@
         <td align="center">始皇帝嬴政</td>
     </tr>
 
-
+ <tr style="background-color:#efefef;"><td rowspan="4"><strong><a href="http://114.xixik.com/chaodai/han/" style="color:#000;" title="汉朝">汉朝</a></strong></td><td colspan="2">				西汉</td><td>				前206-公元8年</td><td>				长安</td><td>				陕西西安</td><td>				汉族</td><td><a href="http://www.xixik.com/content/5860833e2e47ff16" title="汉高祖既非刘邦的庙号也非谥号">太祖刘邦</a>②<br /><a href="http://114.xixik.com/chinese-emperors/han/" title="西汉历代皇帝，汉朝历代皇帝">西汉皇帝列表</a></td></tr><tr style="background-color:#efefef;"><td colspan="2"><a href="http://114.xixik.com/chaodai/xin/" title="新朝历史">新朝</a>③</td><td>				9-23年</td><td>				常安</td><td>				陕西西安</td><td>				汉族</td><td>				王莽</td></tr><tr style="background-color:#efefef;"><td colspan="2">				玄汉</td><td>				23年2月~25年9月</td><td>				宛城<br />				洛阳<br />				长安</td><td>				河南南阳<br />				河南洛阳<br />				山西西安</td><td>				汉族</td><td>				更始帝刘玄</td></tr><tr style="background-color:#efefef;"><td colspan="2">				东汉</td><td>				25-220年</td><td>				洛阳</td><td>				河南洛阳</td><td>				汉族</td><td>				光武帝刘秀<br /><a href="http://114.xixik.com/chinese-emperors/han/" title="东汉历代皇帝，汉朝历代皇帝列表">东汉皇帝列表</a></td></tr>
 </table>
 
 
