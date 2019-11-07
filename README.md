@@ -23,15 +23,35 @@
         <td align="center">华夏族</td>
         <td align="center">禹</td>
     </tr>
-    <tr>
-        <td align="center" colspan="2" rowspan="3">商朝</td>
-        <td align="center" colspan="2">西周</td>
-        <td align="center">约前2146-1675年</td>
-        <td align="center">亳</td>
-        <td align="center">河南商丘</td>
-        <td align="center">华夏族</td>
-        <td align="center">汤</td>
+   <tr>
+        <td rowspan="3" colspan="2">周朝</td>
+        <td colspan="2">西</td>
+        <td>约前1029-771年</td>
+        <td>镐京</td>
+        <td>陕西西安</td>
+        <td>华夏族</td>
+        <td>文王姬昌</td>
     </tr>
+    <tr >
+        <td rowspan="2" >东</td>
+        <td >春秋</td>
+        <td>前770-476年</td>
+        <td>洛邑</td>
+        <td>河南洛阳</td>
+        <td>华夏族</td>
+        <td>平王姬宜臼</td>
+    </tr>
+    <tr >
+        <td>战国</td>
+        <td>前475-221年</td>
+        <td></td>
+        <td></td>
+        <td>华夏族</td>
+        <td>
+            <a href="http://114.xixik.com/chinese-emperors/xianqin/" title="先秦国君世系表">先秦国君世系表</a>
+        </td>
+    </tr>
+    
 
 </table>
 
