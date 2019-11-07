@@ -61,49 +61,48 @@
         <td align="center">始皇帝嬴政</td>
     </tr>
     <tr>
-        <td rowspan="4">汉朝 </td>
-        <td colspan="2">西汉</td>
-        <td>前206~公元8年</td>
-        <td>长安</td>
-        <td>陕西西安</td>
-        <td>汉族</td>
-        <td>太祖刘邦</td>
+        <td align="center" rowspan="4" colspan="2">汉朝 </td>
+        <td align="center" colspan="2">西汉</td>
+        <td align="center">前206~公元8年</td>
+        <td align="center">长安</td>
+        <td align="center">陕西西安</td>
+        <td align="center">汉族</td>
+        <td align="center">太祖刘邦</td>
     </tr>
     <tr>
-        <td>新朝</td>
-        <td>9~23年</td>
-        <td>常安</td>
-        <td>陕西西安</td>
-        <td>汉族</td>
-        <td>王莽</td>
+        <td align="center" colspan="2">新朝</td>
+        <td align="center">9~23年</td>
+        <td align="center">常安</td>
+        <td align="center">陕西西安</td>
+        <td align="center">汉族</td>
+        <td align="center">王莽</td>
     </tr>
     <tr>
-        <td colspan="2">玄汉</td>
-        <td>23年2月~25年9月</td>
-        <td>宛城
+        <td align="center" colspan="2">玄汉</td>
+        <td align="center">23年2月~25年9月</td>
+        <td align="center">宛城
             <br />
             洛阳
             <br />
             长安
         </td>
-        <td>河南南阳
+        <td align="center">河南南阳
             <br />
             河南洛阳
             <br />
             山西西安
         </td>
-        <td>汉族</td>
-        <td>更始帝刘玄</td>
+        <td align="center">汉族</td>
+        <td align="center">更始帝刘玄</td>
     </tr>
     <tr>
-        <td colspan="2">东汉</td>
-        <td>25~220年</td>
-        <td>洛阳</td>
-        <td>河南洛阳</td>
-        <td>汉族</td>
-        <td>光武帝刘秀</td>
+        <td align="center" colspan="2">东汉</td>
+        <td align="center">25~220年</td>
+        <td align="center">洛阳</td>
+        <td align="center">河南洛阳</td>
+        <td align="center">汉族</td>
+        <td align="center">光武帝刘秀</td>
     </tr>
 </table>
-
 
 ## [感谢](http://114.xixik.com/chinese-dynasties/)
