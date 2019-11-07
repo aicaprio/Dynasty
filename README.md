@@ -153,7 +153,7 @@
     <tr>
         <td align="center" colspan="2" rowspan="2">晋朝</td>
         <td align="center" colspan="2">西晋</td>
-        <td align="center">265-316</td>
+        <td align="center">265年~316年</td>
         <td align="center">洛阳</td>
         <td align="center">河南洛阳</td>
         <td align="center">汉族</td>
@@ -161,7 +161,7 @@
     </tr>
     <tr>
         <td align="center" colspan="2">东晋</td>
-        <td align="center">317-420</td>
+        <td align="center">317年~420年</td>
         <td align="center">建康</td>
         <td align="center">江苏南京</td>
         <td align="center">汉族</td>
