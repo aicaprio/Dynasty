@@ -1,5 +1,5 @@
 附上历朝疆土图
-![image](https://github.com/aicaprio/CurtainView/blob/master/imgs/ezgif-5-4fc93a6397.gif)   
+![image](/pictures/历代疆土图.gif)   
 
 <table>
     <tr>
