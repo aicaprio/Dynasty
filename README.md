@@ -1,5 +1,5 @@
 附上历朝疆土图
-![image](/pics/历代疆土图.gif)   
+![image](/pics/历朝疆土图%C2%A0.gif)   
 
 <table>
     <tr>
