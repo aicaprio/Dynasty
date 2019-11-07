@@ -295,8 +295,8 @@
         <td align="center">成都王谯纵</td>
     </tr>
     <tr>
-        <td align="center" colspan="2" rowspan="10">南北朝<br>420年~589年</td>
-        <td align="center" colspan="2" rowspan="4">南朝</td>
+        <td align="center" rowspan="10" colspan="2">南北朝<br>420年~589年</td>
+        <td align="center" rowspan="4">南朝</td>
         <td align="center">刘宋</td>
         <td align="center">420年~479年</td>
         <td align="center">建康</td>
