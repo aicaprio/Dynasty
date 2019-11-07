@@ -1,5 +1,5 @@
-附上历朝疆土图
-![image](/pics/历朝疆土图%C2%A0.gif)   
+历朝疆土图
+![image](https://github.com/aicaprio/Dynasty/blob/master/pics/%E5%8E%86%E6%9C%9D%E7%96%86%E5%9C%9F%E5%9B%BE%C2%A0.gif)   
 
 <table>
     <tr>
