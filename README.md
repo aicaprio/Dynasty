@@ -67,7 +67,14 @@
         <td align="center">华夏族</td>
         <td align="center">禹</td>
     </tr>
-
-  
+    <tr>
+        <td align="center" colspan="2" rowspan="3">商朝</td>
+        <td align="center" colspan="2">西周</td>
+        <td align="center">约前2146-1675年</td>
+        <td align="center">亳</td>
+        <td align="center">河南商丘</td>
+        <td align="center">华夏族</td>
+        <td align="center">汤</td>
+    </tr>
 
 </table>
