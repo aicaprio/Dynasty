@@ -566,7 +566,7 @@
     </tr>
     <tr>
         <td align="center" colspan="4" rowspan="3">金朝</td>
-        <td align="center" rowspan="3">1115-1234</td>
+        <td align="center" rowspan="3">1115年~1234年</td>
         <td align="center">会宁</td>
         <td align="center">阿城(黑)</td>
         <td align="center" rowspan="3">女真族</td>
