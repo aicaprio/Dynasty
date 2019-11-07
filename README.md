@@ -29,7 +29,7 @@
     <tr>
         <td align="center" colspan="2" rowspan="3"><b>周朝</td>
         <td align="center" colspan="2"><b>西周</td>
-        <td align="center" style="font-family:verdana">(约) B.C.1029~B.C.771</td>
+        <td align="center" style="font-family:微软雅黑">(约) 公元前1029年~公元前771年</td>
         <td align="center">镐京</td>
         <td align="center">陕西西安</td>
         <td align="center">华夏族</td>
