@@ -8,15 +8,13 @@
         <th align="center">开国皇帝</td>
     </tr>
     <tr>
-        <td align="center" colspan="4"><b>三皇五帝
+        <td align="center" colspan="4">三皇五帝
         </td>
-        <td align="center" colspan="5">三皇：
-            <b>伏羲、燧人、神农</b>&emsp;&emsp;五帝：
-            <b>黄帝、颛顼、帝喾、唐尧、虞舜</b>
+        <td align="center" colspan="5">三皇： 伏羲、燧人、神农 &emsp;&emsp;五帝： 黄帝、颛顼、帝喾、唐尧、虞舜
         </td>
     </tr>
     <tr>
-        <td align="center" colspan="4"><b>夏朝
+        <td align="center" colspan="4">夏朝
         </td>
         <td align="center">前2146年~前1675年</td>
         <td align="center">安邑</td>
@@ -25,7 +23,7 @@
         <td align="center">禹</td>
     </tr>
     <tr>
-        <td align="center" colspan="4"><b>商朝
+        <td align="center" colspan="4">商朝
         </td>
         <td align="center">前1675年~前1029年</td>
         <td align="center">亳</td>
@@ -34,9 +32,9 @@
         <td align="center">汤</td>
     </tr>
     <tr>
-        <td align="center" colspan="2" rowspan="3"><b>周朝
+        <td align="center" colspan="2" rowspan="3">周朝
         </td>
-        <td align="center" colspan="2"><b>西周
+        <td align="center" colspan="2">西周
         </td>
         <td align="center">前1029年~前771年</td>
         <td align="center">镐京</td>
@@ -45,9 +43,8 @@
         <td align="center">文王姬昌</td>
     </tr>
     <tr>
-        <td align="center" rowspan="2"><b>东周
-        </td>
-        <td align="center"><b>春秋
+        <td align="center" rowspan="2">东周</td>
+        <td align="center">春秋
         </td>
         <td align="center">前770年~前476年</td>
         <td align="center">洛邑</td>
@@ -56,7 +53,7 @@
         <td align="center">平王姬宜臼</td>
     </tr>
     <tr>
-        <td align="center"><b>战国
+        <td align="center">战国
         </td>
         <td align="center">前475年~前221年</td>
         <td align="center"></td>
@@ -65,8 +62,7 @@
         <td align="center"></td>
     </tr>
     <tr>
-        <td align="center" colspan="4"><b>秦朝
-        </td>
+        <td align="center" colspan="4">秦朝</td>
         <td align="center">前221年~前207年</td>
         <td align="center">咸阳</td>
         <td align="center">陕西咸阳</td>
@@ -74,9 +70,9 @@
         <td align="center">始皇帝嬴政</td>
     </tr>
     <tr>
-        <td align="center" colspan="2" rowspan="4"><b>汉朝
+        <td align="center" colspan="2" rowspan="4">汉朝
         </td>
-        <td align="center" colspan="2"><b>西汉
+        <td align="center" colspan="2">西汉
         </td>
         <td align="center">前206年~公元8年</td>
         <td align="center">长安</td>
@@ -85,7 +81,7 @@
         <td align="center">太祖刘邦</td>
     </tr>
     <tr>
-        <td align="center" colspan="2"><b>新朝
+        <td align="center" colspan="2">新朝
         </td>
         <td align="center">9年~23年</td>
         <td align="center">常安</td>
@@ -94,7 +90,7 @@
         <td align="center">王莽</td>
     </tr>
     <tr>
-        <td align="center" colspan="2"><b>玄汉
+        <td align="center" colspan="2">玄汉
         </td>
         <td align="center">23年~25年</td>
         <td align="center">宛城
@@ -113,7 +109,7 @@
         <td align="center">更始帝刘玄</td>
     </tr>
     <tr>
-        <td align="center" colspan="2"><b>东汉
+        <td align="center" colspan="2">东汉
         </td>
         <td align="center">25年~220年</td>
         <td align="center">洛阳</td>
@@ -122,9 +118,9 @@
         <td align="center">光武帝刘秀</td>
     </tr>
     <tr>
-        <td align="center" colspan="2" rowspan="3"><b>三国
+        <td align="center" colspan="2" rowspan="3">三国
         </td>
-        <td align="center" colspan="2"><b>曹魏
+        <td align="center" colspan="2">曹魏
         </td>
         <td align="center">220年~265年</td>
         <td align="center">洛阳</td>
@@ -133,7 +129,7 @@
         <td align="center">魏文帝曹丕</td>
     </tr>
     <tr>
-        <td align="center" colspan="2"><b>蜀汉
+        <td align="center" colspan="2">蜀汉
         </td>
         <td align="center">221年~263年</td>
         <td align="center">成都</td>
@@ -142,7 +138,7 @@
         <td align="center">汉昭烈帝刘备</td>
     </tr>
     <tr>
-        <td align="center" colspan="2"><b>孙吴
+        <td align="center" colspan="2">孙吴
         </td>
         <td align="center">222年~280年</td>
         <td align="center">建业</td>
