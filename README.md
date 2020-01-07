@@ -1,11 +1,11 @@
 <table>
     <tr>
         <th align="center" colspan="4"><a href="https://github.com/aicaprio/Dynasty">朝代</a></td>
-        <th align="center">起讫时间</td>
-        <th align="center">都城</td>
-        <th align="center">今地</td>
-        <th align="center">统治民族</td>
-        <th align="center">开国皇帝</td>
+        <th align="center"><a href="https://github.com/aicaprio/Dynasty">起讫时间</a></td>
+        <th align="center"><a href="https://github.com/aicaprio/Dynasty">都城</a></td>
+        <th align="center"><a href="https://github.com/aicaprio/Dynasty">今地</a></td>
+        <th align="center"><a href="https://github.com/aicaprio/Dynasty">统治民族</a></td>
+        <th align="center"><a href="https://github.com/aicaprio/Dynasty">开国皇帝</a></td>
     </tr>
     <tr>
         <td align="center" colspan="4">三皇五帝</td>
