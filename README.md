@@ -392,7 +392,7 @@
         <td align="center">隋文帝杨坚</td>
     </tr>
     <tr>
-        <td align="center" colspan="4">唐朝</td>
+        <td align="center" colspan="4"><a href="https://github.com/aicaprio/Dynasty">唐朝</a></td>
         <td align="center">618年~907年</td>
         <td align="center">长安</td>
         <td align="center">陕西西安</td>
@@ -400,11 +400,11 @@
         <td align="center">唐高祖李渊</td>
     </tr>
     <tr>
-        <td align="center" colspan="2" rowspan="15">五代十国
+        <td align="center" colspan="2" rowspan="15"><a href="https://github.com/aicaprio/Dynasty">五代十国
             <br>
-            <br>907年~979年
+            <br>907年~979年</a>
         </td>
-        <td align="center" colspan="2">后梁</td>
+        <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">后梁</a></td>
         <td align="center">907年~923年</td>
         <td align="center">汴</td>
         <td align="center">河南开封</td>
@@ -412,7 +412,7 @@
         <td align="center">梁太祖朱晃</td>
     </tr>
     <tr>
-        <td align="center" colspan="2">后唐</td>
+        <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">后唐</a></td>
         <td align="center">923年~936年</td>
         <td align="center">洛阳</td>
         <td align="center">河南洛阳</td>
@@ -420,7 +420,7 @@
         <td align="center">唐庄宗李存勖</td>
     </tr>
     <tr>
-        <td align="center" colspan="2">后晋</td>
+        <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">后晋</a></td>
         <td align="center">936年~947年</td>
         <td align="center">汴</td>
         <td align="center">河南开封</td>
@@ -428,7 +428,7 @@
         <td align="center">晋高祖石敬瑭</td>
     </tr>
     <tr>
-        <td align="center" colspan="2">后汉</td>
+        <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">后汉</a></td>
         <td align="center">947年~950年</td>
         <td align="center">汴</td>
         <td align="center">河南开封</td>
@@ -436,7 +436,7 @@
         <td align="center">汉高祖刘暠</td>
     </tr>
     <tr>
-        <td align="center" colspan="2">后周</td>
+        <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">后周</a></td>
         <td align="center">951年~960年</td>
         <td align="center">汴</td>
         <td align="center">河南开封</td>
@@ -444,7 +444,7 @@
         <td align="center">周太祖郭威</td>
     </tr>
     <tr>
-        <td align="center" colspan="2">前蜀</td>
+        <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">前蜀</a></td>
         <td align="center">891年~925年</td>
         <td align="center">成都</td>
         <td align="center">四川成都</td>
@@ -452,7 +452,7 @@
         <td align="center">高祖王建</td>
     </tr>
     <tr>
-        <td align="center" colspan="2">后蜀</td>
+        <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">后蜀</a></td>
         <td align="center">925年~965年</td>
         <td align="center">成都</td>
         <td align="center">四川成都</td>
@@ -460,7 +460,7 @@
         <td align="center">高祖孟知祥</td>
     </tr>
     <tr>
-        <td align="center" colspan="2">杨吴</td>
+        <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">杨吴</a></td>
         <td align="center">892年~937年</td>
         <td align="center">广陵</td>
         <td align="center">江苏扬州</td>
@@ -468,7 +468,7 @@
         <td align="center">太祖杨行密</td>
     </tr>
     <tr>
-        <td align="center" colspan="2">南唐</td>
+        <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">南唐</a></td>
         <td align="center">937年~975年</td>
         <td align="center">江宁</td>
         <td align="center">江苏南京</td>
@@ -476,7 +476,7 @@
         <td align="center">烈祖李昪</td>
     </tr>
     <tr>
-        <td align="center" colspan="2">吴越</td>
+        <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">吴越</a></td>
         <td align="center">893年~978年</td>
         <td align="center">杭州</td>
         <td align="center">浙江杭州</td>
@@ -484,7 +484,7 @@
         <td align="center">武肃王钱鏐</td>
     </tr>
     <tr>
-        <td align="center" colspan="2">闽国</td>
+        <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">闽国</a></td>
         <td align="center">893年~945年</td>
         <td align="center">长乐</td>
         <td align="center">福建福州</td>
@@ -492,7 +492,7 @@
         <td align="center">太祖王审知</td>
     </tr>
     <tr>
-        <td align="center" colspan="2">马楚</td>
+        <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">马楚</a></td>
         <td align="center">896年~951年</td>
         <td align="center">长沙</td>
         <td align="center">湖南长沙</td>
@@ -500,7 +500,7 @@
         <td align="center">武穆王马殷</td>
     </tr>
     <tr>
-        <td align="center" colspan="2">南汉</td>
+        <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">南汉</a></td>
         <td align="center">905年~971年</td>
         <td align="center">广州</td>
         <td align="center">广东广州</td>
@@ -508,7 +508,7 @@
         <td align="center">高祖刘龑</td>
     </tr>
     <tr>
-        <td align="center" colspan="2">南平</td>
+        <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">南平</a></td>
         <td align="center">907年~963年</td>
         <td align="center">荆州</td>
         <td align="center">湖北荆州</td>
@@ -516,7 +516,7 @@
         <td align="center">武信王高季兴</td>
     </tr>
     <tr>
-        <td align="center" colspan="2">北汉</td>
+        <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">北汉</a></td>
         <td align="center">951年~979年</td>
         <td align="center">晋阳</td>
         <td align="center">山西太原</td>
@@ -524,8 +524,8 @@
         <td align="center">世祖刘崇</td>
     </tr>
     <tr>
-        <td align="center" colspan="2" rowspan="2">宋朝</td>
-        <td align="center" colspan="2">北宋</td>
+        <td align="center" colspan="2" rowspan="2"><a href="https://github.com/aicaprio/Dynasty">宋朝</a></td>
+        <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">北宋</a></td>
         <td align="center">960年~1127年</td>
         <td align="center">开封</td>
         <td align="center">河南开封</td>
@@ -533,7 +533,7 @@
         <td align="center">太祖赵匡胤</td>
     </tr>
     <tr>
-        <td align="center" colspan="2">南宋</td>
+        <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">南宋</a></td>
         <td align="center">1127年~1279年</td>
         <td align="center">临安</td>
         <td align="center">浙江杭州</td>
@@ -541,7 +541,7 @@
         <td align="center">高宗赵构</td>
     </tr>
     <tr>
-        <td align="center" colspan="4">辽国</td>
+        <td align="center" colspan="4"><a href="https://github.com/aicaprio/Dynasty">辽国</a></td>
         <td align="center">907年~1125年</td>
         <td align="center">皇都</td>
         <td align="center">辽宁</td>
@@ -549,7 +549,7 @@
         <td align="center">太祖耶律阿保机</td>
     </tr>
     <tr>
-        <td align="center" colspan="4">大理</td>
+        <td align="center" colspan="4"><a href="https://github.com/aicaprio/Dynasty">大理</a></td>
         <td align="center">937年~1254年</td>
         <td align="center">太和城</td>
         <td align="center">云南大理</td>
@@ -557,7 +557,7 @@
         <td align="center">太祖段思平</td>
     </tr>
     <tr>
-        <td align="center" colspan="4">西夏</td>
+        <td align="center" colspan="4"><a href="https://github.com/aicaprio/Dynasty">西夏</a></td>
         <td align="center">1032年~1227年</td>
         <td align="center">兴庆府</td>
         <td align="center">宁夏银川</td>
@@ -565,7 +565,7 @@
         <td align="center">景帝李元昊</td>
     </tr>
     <tr>
-        <td align="center" colspan="4" rowspan="3">金朝</td>
+        <td align="center" colspan="4" rowspan="3"><a href="https://github.com/aicaprio/Dynasty">金朝</a></td>
         <td align="center" rowspan="3">1115年~1234年</td>
         <td align="center">会宁</td>
         <td align="center">阿城(黑)</td>
@@ -581,7 +581,7 @@
         <td align="center">河南开封</td>
     </tr>
     <tr>
-        <td align="center" colspan="4">元朝</td>
+        <td align="center" colspan="4"><a href="https://github.com/aicaprio/Dynasty">元朝</a></td>
         <td align="center">1206年~1368年</td>
         <td align="center">大都</td>
         <td align="center">北京</td>
@@ -589,7 +589,7 @@
         <td align="center">元世祖忽必烈</td>
     </tr>
     <tr>
-        <td align="center" colspan="4">明朝</td>
+        <td align="center" colspan="4"><a href="https://github.com/aicaprio/Dynasty">明朝</a></td>
         <td align="center">1368年~1644年</td>
         <td align="center">北京</td>
         <td align="center">北京</td>
@@ -597,7 +597,7 @@
         <td align="center">明太祖朱元璋</td>
     </tr>
     <tr>
-        <td align="center" colspan="4">清朝</td>
+        <td align="center" colspan="4"><a href="https://github.com/aicaprio/Dynasty">清朝</a></td>
         <td align="center">1636年~1911年</td>
         <td align="center">北京</td>
         <td align="center">北京</td>
