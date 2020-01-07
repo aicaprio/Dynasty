@@ -15,7 +15,7 @@
         <td align="center" colspan="4"><a href="https://github.com/aicaprio/Dynasty">夏朝</a></td>
         <td align="center">前2146年~前1675年</td>
         <td align="center">安邑</td>
-        <td align="center">山西夏县</td>
+        <td align="center"><a href="https://github.com/aicaprio/Dynasty">山西夏县</a></td>
         <td align="center">华夏族</td>
         <td align="center">禹</td>
     </tr>
@@ -23,7 +23,7 @@
         <td align="center" colspan="4"><a href="https://github.com/aicaprio/Dynasty">商朝</a></td>
         <td align="center">前1675年~前1029年</td>
         <td align="center">亳</td>
-        <td align="center">河南商丘</td>
+        <td align="center"><a href="https://github.com/aicaprio/Dynasty">河南商丘</a></td>
         <td align="center">华夏族</td>
         <td align="center">汤</td>
     </tr>
@@ -32,7 +32,7 @@
         <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">西周</a></td>
         <td align="center">前1029年~前771年</td>
         <td align="center">镐京</td>
-        <td align="center">陕西西安</td>
+        <td align="center"><a href="https://github.com/aicaprio/Dynasty">陕西西安</a></td>
         <td align="center">华夏族</td>
         <td align="center">文王姬昌</td>
     </tr>
@@ -41,7 +41,7 @@
         <td align="center"><a href="https://github.com/aicaprio/Dynasty">春秋</a></td>
         <td align="center">前770年~前476年</td>
         <td align="center">洛邑</td>
-        <td align="center">河南洛阳</td>
+        <td align="center"><a href="https://github.com/aicaprio/Dynasty">河南洛阳</a></td>
         <td align="center">华夏族</td>
         <td align="center">平王姬宜臼</td>
     </tr>
@@ -57,7 +57,7 @@
         <td align="center" colspan="4"><a href="https://github.com/aicaprio/Dynasty">秦朝</a></td>
         <td align="center">前221年~前207年</td>
         <td align="center">咸阳</td>
-        <td align="center">陕西咸阳</td>
+        <td align="center"><a href="https://github.com/aicaprio/Dynasty">陕西咸阳</a></td>
         <td align="center">华夏族</td>
         <td align="center">始皇帝嬴政</td>
     </tr>
