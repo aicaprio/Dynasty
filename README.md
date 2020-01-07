@@ -1,6 +1,6 @@
 <table>
     <tr>
-        <th align="center" colspan="4">朝代</td>
+        <th align="center" colspan="4"><a href="https://github.com/aicaprio/Dynasty">朝代</a></td>
         <th align="center">起讫时间</td>
         <th align="center">都城</td>
         <th align="center">今地</td>
