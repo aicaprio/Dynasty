@@ -66,7 +66,7 @@
         <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">西汉</a></td>
         <td align="center">前206年~公元8年</td>
         <td align="center">长安</td>
-        <td align="center">陕西西安</td>
+        <td align="center"><a href="https://github.com/aicaprio/Dynasty">陕西西安</a></td>
         <td align="center">汉族</td>
         <td align="center">太祖刘邦</td>
     </tr>
@@ -92,7 +92,7 @@
         <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">东汉</a></td>
         <td align="center">25年~220年</td>
         <td align="center">洛阳</td>
-        <td align="center">河南洛阳</td>
+        <td align="center"><a href="https://github.com/aicaprio/Dynasty">河南洛阳</a></td>
         <td align="center">汉族</td>
         <td align="center">光武帝刘秀</td>
     </tr>
