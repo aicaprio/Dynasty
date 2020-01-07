@@ -302,9 +302,9 @@
         <td align="center">成都王谯纵</td>
     </tr>
     <tr>
-        <td align="center" colspan="2" rowspan="10"><a href="https://github.com/aicaprio/Dynasty">南北朝</a>
+        <td align="center" colspan="2" rowspan="10"><a href="https://github.com/aicaprio/Dynasty">南北朝
             <br>
-            <br>420年~589年
+            <br>420年~589年</a>
         </td>
         <td align="center" rowspan="4"><a href="https://github.com/aicaprio/Dynasty">南朝</a></td>
         <td align="center"><a href="https://github.com/aicaprio/Dynasty">刘宋</a></td>
