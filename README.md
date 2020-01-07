@@ -101,7 +101,7 @@
         <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">曹魏</a></td>
         <td align="center">220年~265年</td>
         <td align="center">洛阳</td>
-        <td align="center">河南洛阳</td>
+        <td align="center"><a href="https://github.com/aicaprio/Dynasty">河南洛阳</a></td>
         <td align="center">汉族</td>
         <td align="center">魏文帝曹丕</td>
     </tr>
@@ -109,7 +109,7 @@
         <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">蜀汉</a></td>
         <td align="center">221年~263年</td>
         <td align="center">成都</td>
-        <td align="center">四川成都</td>
+        <td align="center"><a href="https://github.com/aicaprio/Dynasty">四川成都</a></td>
         <td align="center">汉族</td>
         <td align="center">汉昭烈帝刘备</td>
     </tr>
@@ -117,7 +117,7 @@
         <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">孙吴</a></td>
         <td align="center">222年~280年</td>
         <td align="center">建业</td>
-        <td align="center">江苏南京</td>
+        <td align="center"><a href="https://github.com/aicaprio/Dynasty">江苏南京</a></td>
         <td align="center">汉族</td>
         <td align="center">吴大帝孙权</td>
     </tr>
@@ -126,7 +126,7 @@
         <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">西晋</a></td>
         <td align="center">265年~316年</td>
         <td align="center">洛阳</td>
-        <td align="center">河南洛阳</td>
+        <td align="center"><a href="https://github.com/aicaprio/Dynasty">河南洛阳</a></td>
         <td align="center">汉族</td>
         <td align="center">晋武帝司马炎</td>
     </tr>
@@ -134,7 +134,7 @@
         <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">东晋</a></td>
         <td align="center">317年~420年</td>
         <td align="center">建康</td>
-        <td align="center">江苏南京</td>
+        <td align="center"><a href="https://github.com/aicaprio/Dynasty">江苏南京</a></td>
         <td align="center">汉族</td>
         <td align="center">晋元帝司马睿</td>
     </tr>
@@ -310,7 +310,7 @@
         <td align="center"><a href="https://github.com/aicaprio/Dynasty">刘宋</a></td>
         <td align="center">420年~479年</td>
         <td align="center">建康</td>
-        <td align="center">江苏南京</td>
+        <td align="center"><a href="https://github.com/aicaprio/Dynasty">江苏南京</a></td>
         <td align="center">汉族</td>
         <td align="center">宋武帝刘裕</td>
     </tr>
@@ -318,7 +318,7 @@
         <td align="center"><a href="https://github.com/aicaprio/Dynasty">萧齐</a></td>
         <td align="center">479年~502年</td>
         <td align="center">建康</td>
-        <td align="center">江苏南京</td>
+        <td align="center"><a href="https://github.com/aicaprio/Dynasty">江苏南京</a></td>
         <td align="center">汉族</td>
         <td align="center">齐高帝萧道成</td>
     </tr>
@@ -326,7 +326,7 @@
         <td align="center"><a href="https://github.com/aicaprio/Dynasty">萧梁</a></td>
         <td align="center">502年~557年</td>
         <td align="center">建康</td>
-        <td align="center">江苏南京</td>
+        <td align="center"><a href="https://github.com/aicaprio/Dynasty">江苏南京</a></td>
         <td align="center">汉族</td>
         <td align="center">梁武帝萧衍</td>
     </tr>
@@ -334,7 +334,7 @@
         <td align="center"><a href="https://github.com/aicaprio/Dynasty">南陈</a></td>
         <td align="center">557年~589年</td>
         <td align="center">建康</td>
-        <td align="center">江苏南京</td>
+        <td align="center"><a href="https://github.com/aicaprio/Dynasty">江苏南京</a></td>
         <td align="center">汉族</td>
         <td align="center">陈武帝陈霸先</td>
     </tr>
@@ -387,7 +387,7 @@
         <td align="center" colspan="4"><a href="https://github.com/aicaprio/Dynasty">隋朝</a></td>
         <td align="center">581年~618年</td>
         <td align="center">大兴</td>
-        <td align="center">陕西西安</td>
+        <td align="center"><a href="https://github.com/aicaprio/Dynasty">陕西西安</a></td>
         <td align="center">汉族</td>
         <td align="center">隋文帝杨坚</td>
     </tr>
@@ -395,7 +395,7 @@
         <td align="center" colspan="4"><a href="https://github.com/aicaprio/Dynasty">唐朝</a></td>
         <td align="center">618年~907年</td>
         <td align="center">长安</td>
-        <td align="center">陕西西安</td>
+        <td align="center"><a href="https://github.com/aicaprio/Dynasty">陕西西安</a></td>
         <td align="center">汉族</td>
         <td align="center">唐高祖李渊</td>
     </tr>
@@ -528,7 +528,7 @@
         <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">北宋</a></td>
         <td align="center">960年~1127年</td>
         <td align="center">开封</td>
-        <td align="center">河南开封</td>
+        <td align="center"><a href="https://github.com/aicaprio/Dynasty">河南开封</a></td>
         <td align="center">汉族</td>
         <td align="center">太祖赵匡胤</td>
     </tr>
@@ -536,7 +536,7 @@
         <td align="center" colspan="2"><a href="https://github.com/aicaprio/Dynasty">南宋</a></td>
         <td align="center">1127年~1279年</td>
         <td align="center">临安</td>
-        <td align="center">浙江杭州</td>
+        <td align="center"><a href="https://github.com/aicaprio/Dynasty">浙江杭州</a></td>
         <td align="center">汉族</td>
         <td align="center">高宗赵构</td>
     </tr>
@@ -584,7 +584,7 @@
         <td align="center" colspan="4"><a href="https://github.com/aicaprio/Dynasty">元朝</a></td>
         <td align="center">1206年~1368年</td>
         <td align="center">大都</td>
-        <td align="center">北京</td>
+        <td align="center"><a href="https://github.com/aicaprio/Dynasty">北京</a></td>
         <td align="center">蒙古族</td>
         <td align="center">元世祖忽必烈</td>
     </tr>
@@ -592,7 +592,7 @@
         <td align="center" colspan="4"><a href="https://github.com/aicaprio/Dynasty">明朝</a></td>
         <td align="center">1368年~1644年</td>
         <td align="center">北京</td>
-        <td align="center">北京</td>
+        <td align="center"><a href="https://github.com/aicaprio/Dynasty">北京</a></td>
         <td align="center">汉族</td>
         <td align="center">明太祖朱元璋</td>
     </tr>
@@ -600,7 +600,7 @@
         <td align="center" colspan="4"><a href="https://github.com/aicaprio/Dynasty">清朝</a></td>
         <td align="center">1636年~1911年</td>
         <td align="center">北京</td>
-        <td align="center">北京</td>
+        <td align="center"><a href="https://github.com/aicaprio/Dynasty">北京</a></td>
         <td align="center">满族</td>
         <td align="center">清太宗皇太极</td>
     </tr>
